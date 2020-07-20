@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, friends 👋
 
-<!--
-**askft/askft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working on a master's thesis in machine learning at Lund University 🤖📈.
 
-Here are some ideas to get you started:
+I mostly write code in Go, but can use Python, C, Scala, and a bunch more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hobbies and interests are:
+- 🎵 Guitar – mostly classical nowadays
+- 🗣 Languages – Deutsch, 中文, Português, Español, Русский
+- 🏔 Traveling – culture, food, hiking
+- 📷 Photography – see my [Instagram](https://www.instagram.com/alexanderskafte/) / [Flickr](https://www.flickr.com/photos/143095668@N03/)
+- 📖 Reading – classics, history, philosophy
+- 💪🏻 Training
