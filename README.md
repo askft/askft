@@ -2,8 +2,6 @@
 
 Swedish guy working on a master's thesis in machine learning at Lund University 🤖📈.
 
-I mostly write code in Go, but can use Python, C, Scala, and a bunch more.
-
 Hobbies and interests are:
 - 🎵 Guitar – mostly classical nowadays
 - 🗣 Languages – learning Deutsch, 中文, Português, Русский
